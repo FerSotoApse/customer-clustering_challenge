@@ -1,7 +1,7 @@
 # Segmentación de Clientes
 
 Proyecto de reclasificación de clientes para decisiones estratégicas.
-En este proyecto se han considerado la necesidad de orientar herramientas de clustering para reorientar las estrategias de marketing a
+En este proyecto se han considerado la necesidad de utilizar herramientas de clustering para reorientar las estrategias de marketing a
 clientes prospectos de alto valor, desarrollo de nuevos productos, trabajo en la relación con los clientes y gestión de cartera clientes.
 
 ## Desafíos
@@ -12,19 +12,21 @@ clientes prospectos de alto valor, desarrollo de nuevos productos, trabajo en la
   * mayor claridad de los atributos de clientes
   * herramienta orientativa para toma de decisiones
 
- ## Tecnologías
+## Tecnologías (librerías)
 
- Proyecto en lenguaje Python3
- * manipulación de datos
+Manipulación de datos
   * numpy
   * pandas
- * Visualización
+
+Visualización
   * matplotlib
   * seaborn
   * plotly
- * modelos de clustering
+
+Modelos de Clustering
  *  scikit-learn
  *  clustevals
- * bases de datos relacionales
+
+Bases de Datos Relacionales
   * connector-mysql
   * MySQL Workbench
