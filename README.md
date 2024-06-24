@@ -15,12 +15,16 @@ clientes prospectos de alto valor, desarrollo de nuevos productos, trabajo en la
  ## Tecnologías
 
  Proyecto en lenguaje Python3
- * numpy
- * pandas
- * matplotlib
- * seaborn
- * plotly
- * scikit-learn
- * clustevals
- * connector-mysql
- * MySQL Workbench
+ * manipulación de datos
+  * numpy
+  * pandas
+ * Visualización
+  * matplotlib
+  * seaborn
+  * plotly
+ * modelos de clustering
+ *  scikit-learn
+ *  clustevals
+ * bases de datos relacionales
+  * connector-mysql
+  * MySQL Workbench
