@@ -7,6 +7,7 @@ clientes prospectos de alto valor, desarrollo de nuevos productos, trabajo en la
 ## Desafíos
 * extraer información desde bases de datos relacionales (MySQL)
 * comprender los atributos cualitativos de los clientes
+* análisis de datos y selección de atributos
 * selección de modelos de clustering óptimos
   * mayor claridad de los atributos de clientes
   * herramienta orientativa para toma de decisiones
